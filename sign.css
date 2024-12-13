@@ -24,15 +24,17 @@ button{
     border: none;
     cursor: pointer;
     width: 100%;
-    padding: 10;
+    padding: 10px;
     margin-bottom: 15px;
     border-radius: 5px;
     box-shadow: rgb(52, 52, 52);
+    
 }
 input{
     width: 100%;
-    padding: 10;
+    padding: 10px;
     border-radius: 5px;
+    margin-left: -14px;
 }
 a{
     margin-top:-37px;

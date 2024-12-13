@@ -31,6 +31,11 @@ button{
     height: 25px;
 }
 button:hover{
+    background-color: rgb(8, 2, 15);
+    color: black;
+
+}
+a:hover{
     background-color: rgb(56, 9, 99);
     color: black;
     transition: 0.2s;
